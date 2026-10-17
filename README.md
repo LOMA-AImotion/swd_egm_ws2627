@@ -1,6 +1,7 @@
-# SWD EGM – Winter Semester 2026/27
+# SWD – Engineering and Management (EGM), Winter Semester 2026/27
 
-Welcome, students of **Technische Hochschule Ingolstadt (THI)**!
+Welcome, 3rd-semester **Engineering and Management** students at
+**Technische Hochschule Ingolstadt (THI)**!
 
 This repository contains all the code written live during our lectures.
 After each session, the examples are pushed here, so you'll always find
