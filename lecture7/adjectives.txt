@@ -1,0 +1,6 @@
+sleepy
+angry
+happy
+sad
+motivated
+devastated
